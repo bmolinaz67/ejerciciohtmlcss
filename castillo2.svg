@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m20,11l-2,0l0,-5l1,0l0,-4l-2,0l0,2l-1,0l0,-2l-2,0l0,2l-1,0l0,-2l-2,0l0,2l-1,0l0,-2l-2,0l0,2l-1,0l0,-2l-2,0l0,4l1,0l0,5l-2,0l0,-2l-2,0l0,12l7,0l0,-5a3,3 0 0 1 6,0l0,5l7,0l0,-12l-2,0l0,2zm-10,-1l-2,0l0,-3l2,0l0,3zm6,0l-2,0l0,-3l2,0l0,3z" id="svg_1"/>
+  <ellipse cx="18.34" cy="16.15" fill="#FF0000" id="svg_2" rx="2.69" ry="3.13" stroke="#000000"/>
+ </g>
+</svg>

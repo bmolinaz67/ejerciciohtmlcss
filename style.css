@@ -1,0 +1,31 @@
+body{
+  background-color: rosybrown;
+  color: white;
+}
+p{
+  color: blue;
+  font-size: 18px;
+}
+ol{
+  width: 150px;
+  background-color: blanchedalmond;
+  padding: 14px;
+
+}
+ul{
+  width: 200px;
+  height: 300px;
+  background-color: orange;
+  margin-top: 50px;
+  border-radius: 25px;
+  border-style: dotted;
+  border-color: blue;
+  
+}
+
+#pespecial{
+    font-size: 48px;
+    color: rgb(0, 255, 0);
+    background-color: beige;
+    padding: 5px;
+}
