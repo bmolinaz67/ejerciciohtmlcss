@@ -6,6 +6,6 @@ En este repositorio encontrar los temas y ejemplos y ejercicios de clase del cur
 -Clase 1: Introducción al HTML Básico
 -Clase 2: Introduccion al CSS básico
 -Clase 3: Etiquetas contenedoras y semanticas
--Clase 4
--Clase 5
+-Clase 4:
+-Clase 5:
 
