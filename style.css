@@ -2,6 +2,12 @@ body{
   background-color: rosybrown;
   color: white;
 }
+header{
+  color: blue;
+  background-color: bisque;
+height: 100px;
+
+}
 p{
   color: blue;
   font-size: 18px;
@@ -28,4 +34,47 @@ ul{
     color: rgb(0, 255, 0);
     background-color: beige;
     padding: 5px;
+}
+#titulo1{
+  background-color: black;
+  color: white;
+  padding: 7px;
+}
+
+.boton{
+ border-radius: 15px;
+ background-color: black;
+
+ margin: 10px;
+ padding: 7px; 
+}
+
+.boton:hover{
+  color:white;
+background-color: yellow;
+}
+.caja1{
+  background-color: greenyellow;
+  margin: 15px;
+  padding: 25px;
+  width: 300px;
+}
+.columnright{
+  position:relative;
+  top:130px;
+  left: 400px;
+  width: 200px;
+  padding: 15px;
+  background-color: black;
+}
+.columnright2{
+  position:absolute;
+  top:130px;
+  left: 650px;
+  width: 200px;
+  padding: 15px;
+  background-color: rgb(188, 43, 43);
+}
+.foto{
+  width: 100%;
 }
